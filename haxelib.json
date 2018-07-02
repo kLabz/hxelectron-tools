@@ -1,0 +1,14 @@
+{
+  "name": "hxelectron-tools",
+  "description": "TODO",
+  "version": "0.0.1",
+  "releasenote": "TODO",
+  "url": "https://github.com/kLabz/hxelectron-tools",
+  "license": "MIT",
+  "tags": [],
+  "classPath": "src",
+  "contributors": [
+    "klabz"
+  ]
+}
+
